@@ -1,0 +1,14 @@
+{
+  "name": "disxp",
+  "version": "1.0.0",
+  "description": "A simple Discord leveling package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jxckson",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.1.1"
+  }
+}
